@@ -34,7 +34,7 @@ pip install -r requirements.txt
    ```
   Or Download Apps From Here:
    ```bash
-   git clone https://github.com/your-username/ImageConverterApp.git
+   https://github.com/obaidmedweb/obaidmedweb/releases/tag/v1.0
    ```
 
 
