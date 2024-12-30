@@ -1,4 +1,5 @@
 Here's a simple `README.md` file you can use for your Image Converter application:
+![screen2](https://github.com/user-attachments/assets/4ec1b397-cfcf-4aba-ba65-44734be12167)
 
 ```markdown
 # Image Converter App
